@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack Developer | MERN Stack | React.js | Node.js | MongoDB
 
-> Fresher | Immediate Joiner | Open to Relocate to Bengaluru
+> Fresher | Immediate Joiner | Open to Relocate
 
 ---
 
