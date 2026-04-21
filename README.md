@@ -9,7 +9,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Completed **Full Stack Development** training at **NxtWave CCBP Academy**
-- 💻 Built **4 live deployed projects** using the MERN Stack
+- 💻 Built **5 live deployed projects** using the MERN Stack
 - ⚡ Passionate about building responsive, real-world web applications
 - 📍 Currently in Hospet, Karnataka — **Ready to relocate immediately**
 - 📧 Reach me: **sharathgouli20@gmail.com**
