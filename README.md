@@ -1,17 +1,19 @@
 # 👋 Hi, I'm Gouli P. Sharath Kumar
 
-### 🚀 Full Stack Developer | MERN Stack | React.js | Node.js | MongoDB
+### 🚀 Full Stack Developer | MERN Stack | React.js | Node.js | MongoDB | AI Integration
 
-> Fresher | Immediate Joiner | Open to Relocate
+> Fresher | Immediate Joiner | Open to Relocate to Bengaluru
 
 ---
 
 ## 🧑‍💻 About Me
 
 - 🎓 Completed **Full Stack Development** training at **NxtWave CCBP Academy**
-- 💻 Built **5 live deployed projects** using the MERN Stack
-- ⚡ Passionate about building responsive, real-world web applications
-- 📍 Currently in Hospet, Karnataka — **Ready to relocate immediately**
+- 💻 Built **8+ live deployed projects** using the MERN Stack & AI Integration
+- 🤖 Integrated **Groq LLaMA 3.3 70B LLM** into a full-stack AI-powered web app
+- ⚡ Passionate about building scalable, real-world web applications
+- 💼 Active on **Fiverr** (@sharath_gouli) — MERN stack, React UI, AI integration services
+- 📍 Currently in Hospet, Karnataka — **Ready to relocate to Bengaluru immediately**
 - 📧 Reach me: **sharathgouli20@gmail.com**
 - 📱 Phone: **9986013285**
 
@@ -19,21 +21,31 @@
 
 ## 📄 Resume
 
-[![Online Resume](https://img.shields.io/badge/VIEW%20MY%20RESUME-blue?style=for-the-badge&logo=github&logoColor=white)](https://goulipsharathkumar.github.io/resume)
+[![View Resume](https://img.shields.io/badge/VIEW%20MY%20RESUME-blue?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1H79YjkwzUeyffP5hIpy2FxXz2ovfkbiS/view?usp=sharing)
 
-> 📥 **[Download PDF](https://github.com/goulipsharathkumar/goulipsharathkumar/raw/main/Gouli_P_Sharath_Kumar_Resume.pdf)** | 🌐 **[View Online](https://goulipsharathkumar.github.io/resume)**
+> 📥 **[Download PDF](https://drive.google.com/uc?export=download&id=1H79YjkwzUeyffP5hIpy2FxXz2ovfkbiS)** | 🌐 **[View Online](https://drive.google.com/file/d/1H79YjkwzUeyffP5hIpy2FxXz2ovfkbiS/view?usp=sharing)**
 
 ---
 
 ## 🚀 Live Projects
 
-### ⚡ HireFlow – Full Stack Recruiter Platform
-> Full-Stack MERN job portal and Applicant Tracking System (ATS) for real-world recruitment
+### ⚡ HireFlow – Full Stack Recruiter Platform & ATS
+> Full-stack MERN job portal and Applicant Tracking System with dual role-based access
 
 - 🔗 **Live Demo:** https://hireflow-red-kappa.vercel.app
 - 📌 **GitHub:** https://github.com/goulipsharathkumar/hireflow-
-- 🛠️ **Stack:** React.js · Node.js · MongoDB · Express.js · Context API · JWT · TailwindCSS · Bcrypt.js
-- ✅ Dual roles (Candidate & Recruiter), ATS pipeline (Applied → Screening → Interview → Offer → Rejected), JWT auth, role-based protected routes, recruiter dashboard with job stats, fully responsive
+- 🛠️ **Stack:** React.js · Node.js · Express.js · MongoDB Atlas · Mongoose · JWT · Context API · TailwindCSS · Bcrypt.js · Vercel · Render
+- ✅ Dual roles (Candidate & Recruiter), ATS pipeline (Applied → Screening → Interview → Offer → Rejected), 12 REST API endpoints, JWT auth, role-based protected routes, recruiter dashboard with job stats, fully responsive
+
+---
+
+### 🤖 AI Text Summarizer – LLM-Based Analysis Tool
+> Full-stack AI-powered text analysis tool integrating Groq's LLaMA 3.3 70B LLM
+
+- 🔗 **Live Demo:** https://ai-text-summarizer-demo.vercel.app
+- 📌 **GitHub:** https://github.com/goulipsharathkumar/ai-text-summarizer
+- 🛠️ **Stack:** React.js · Node.js · Express.js · Groq API · LLaMA 3.3 70B · Prompt Engineering · Vite · Vercel
+- ✅ Structured NLP output (summary, 3 key points, sentiment) in under 1 second, strict JSON schema enforcement, prompt engineering system, CLI tool + responsive web UI
 
 ---
 
@@ -77,6 +89,23 @@
 
 ---
 
+### 🛒 Omkar Collections – E-Commerce Platform
+> Real-world e-commerce site with Firebase backend, UPI payment, and admin panel
+
+- 🔗 **Live Demo:** *(Netlify deployed)*
+- 🛠️ **Stack:** React.js · Firebase · UPI Payment Integration · Admin Panel · Netlify
+- ✅ Firebase backend, UPI payment integration, admin panel, fully responsive — freelance project
+
+---
+
+### 🏥 Hospital Appointment Booking System
+> Full-stack MERN app with role-based access for Patients, Doctors, and Admins
+
+- 🛠️ **Stack:** React.js · Node.js · Express.js · MongoDB Atlas · JWT · Role-Based Access Control
+- ✅ 3 roles (Patient / Doctor / Admin), appointment scheduling, protected routing, MongoDB Atlas
+
+---
+
 ## 🛠️ Technical Skills
 
 ### Languages
@@ -97,13 +126,19 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
+### AI & LLM
+![Groq](https://img.shields.io/badge/Groq_API-FF6B35?style=for-the-badge&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA_3.3_70B-0467DF?style=for-the-badge&logoColor=white)
+
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Deployment & Tools
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -113,6 +148,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ---
 
@@ -124,6 +160,20 @@
 - ✅ [Responsive Website Design](https://certificates.ccbp.in/intensive/responsive-website-design)
 - ✅ [Introduction to Databases](https://certificates.ccbp.in/intensive/introduction-to-databases)
 - ✅ [Programming Foundations](https://certificates.ccbp.in/intensive/programming-foundations?id=EQILYCSNPM)
+- ✅ Static Website Development
+- ✅ Flexbox
+- ✅ Developer Foundations
+
+---
+
+## 🏅 Achievements
+
+- 🚀 Built **8+ full-stack production-grade web apps** deployed on Vercel, Render, and Netlify
+- 🤖 Implemented **AI features using Groq LLaMA 3.3 70B** with under 1 second API response time
+- 🏢 Built **HireFlow** — complete MERN job portal with dual role-based ATS and 12 REST API endpoints
+- 🛒 Built **Omkar Collections** — real client e-commerce site with Firebase and UPI payment integration
+- 💼 Active **Fiverr freelancer** (@sharath_gouli) — MERN, React UI, AI integration services
+- 🎓 Earned **9 NxtWave CCBP certifications** across React.js, Node.js, JavaScript, Databases, and Web Design
 
 ---
 
@@ -138,7 +188,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gouli-p-sharath-kumar-0794552b1/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/goulipsharathkumar)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharathgouli20@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharathgouli20@gmail.com)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/sharath_gouli)
 
 ---
 
