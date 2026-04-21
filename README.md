@@ -25,7 +25,17 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Live Projects
+
+### ⚡ HireFlow – Full Stack Recruiter Platform
+> Full-Stack MERN job portal and Applicant Tracking System (ATS) for real-world recruitment
+
+- 🔗 **Live Demo:** https://hireflow-red-kappa.vercel.app
+- 📌 **GitHub:** https://github.com/goulipsharathkumar/hireflow-
+- 🛠️ **Stack:** React.js · Node.js · MongoDB · Express.js · Context API · JWT · TailwindCSS · Bcrypt.js
+- ✅ Dual roles (Candidate & Recruiter), ATS pipeline (Applied → Screening → Interview → Offer → Rejected), JWT auth, role-based protected routes, recruiter dashboard with job stats, fully responsive
+
+---
 
 ### 🍽️ Restaurant Ordering Platform
 > Full-Stack MERN web application with authentication, menu browsing, and cart management
